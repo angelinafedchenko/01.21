@@ -2,6 +2,6 @@ package com;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Print New...");
+        System.out.println("Print New1...");
     }
 }
