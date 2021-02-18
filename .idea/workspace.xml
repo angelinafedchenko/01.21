@@ -4,10 +4,7 @@
     <list default="true" id="7d978983-e0b2-4ce4-b077-22ef097ab69e" name="Default Changelist" comment="Homework_4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="a4c2f795-3c48-4dce-8967-87396dd6f26a" name="Homework_2" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Homework2/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework2/MyClass.java" afterDir="false" />
-    </list>
+    <list id="a4c2f795-3c48-4dce-8967-87396dd6f26a" name="Homework_2" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,18 +46,7 @@
       <recent name="C:\Atsoft\01.21\src\core4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileNames1">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ClinicalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework4.ClinicalApp" />
       <module name="01.21" />
@@ -113,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.builder.Main" />
       <module name="01.21" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework4.*" />
+          <option name="PATTERN" value="homework6.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,24 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FileNames1" />
         <item itemvalue="Application.ListColors" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.ClinicalApp" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +150,9 @@
       <workItem from="1611814307414" duration="14389000" />
       <workItem from="1611911734121" duration="619000" />
       <workItem from="1611934494497" duration="14232000" />
+      <workItem from="1613393005476" duration="614000" />
+      <workItem from="1613398098149" duration="7201000" />
+      <workItem from="1613543053391" duration="1864000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_2">
       <created>1611674346619</created>
