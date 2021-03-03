@@ -17,9 +17,9 @@ public class Fibonacci {
             f2 = next;
         }
     }
-
+//added conflict (6)
     public static void main(String[] args)
     {
-        printFibonacciNumbers(3);
+        printFibonacciNumbers(6);
     }
 }
