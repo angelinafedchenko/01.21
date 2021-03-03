@@ -20,6 +20,6 @@ public class Fibonacci {
 
     public static void main(String[] args)
     {
-        printFibonacciNumbers(3);
+        printFibonacciNumbers(5);
     }
 }
